@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm TUSHAR SINGOUR</h1>
 <h3 align="center">🚀 Passionate B.Tech IT student exploring AI, web & app development | Always learning, building, and pushing boundaries</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharsingour" alt="tusharsingour" /></a> </p>
-
 - 🌱 I’m currently learning **C, C#, Python, HTML, CSS, and Data Analytics | B.Tech IT student exploring AI, web & app development**
 
 <h3 align="left">Connect with me:</h3>
