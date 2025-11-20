@@ -6,40 +6,55 @@
 
 <!-- ===================== About Me Section ===================== -->
 
-# 💫 About Me:
-🔭 I’m currently working on:<br>
-Building my skills in Python, C, HTML, CSS, and small beginner-level projects.<br>
+# 💫 About Me
+🔭 I’m currently working on:  
+Building my skills in Python, C, HTML, CSS, and beginner-level projects.
 
-🤝 I’m looking to collaborate on:<br>
-Simple web development projects, coding practice tasks, and open-source beginner issues.<br>
+🤝 I’m looking to collaborate on:  
+Simple web dev projects, coding practice tasks, and beginner open-source issues.
 
-🧩 I’m looking for help with:<br>
-Improving problem-solving skills, understanding data structures, and writing clean, optimized code.<br>
+🧩 I’m looking for help with:  
+Improving problem-solving skills, learning data structures, and writing clean code.
 
-🌱 I’m currently learning:<br>
-Python development, C programming basics, Git & GitHub workflow, and frontend fundamentals.<br>
+🌱 I’m currently learning:  
+Python development, C basics, Git & GitHub workflow, and frontend fundamentals.
 
-💬 Ask me about:<br>
-Programming basics, Python projects, Git commands, or how to start in web development.
+💬 Ask me about:  
+Python projects, Git commands, or how to start in web development.
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tusharsingour)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-singour)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Singourtushar)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharsingour.tech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharsingour.tech@gmail.com)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TusharSingour&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TusharSingour&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharSingour&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
+---
+
+# 📊 GitHub Stats
+
+<!-- SAFE, ERROR-FREE STATS CARDS -->
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TusharSingour&theme=bear&hide_border=false&show_icons=true&include_all_commits=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TusharSingour&theme=bear&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharSingour&theme=bear&hide_border=false&layout=compact)
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
 
@@ -49,3 +64,5 @@ Programming basics, Python projects, Git commands, or how to start in web develo
 ---
 
 [![](https://visitcount.itsvg.in/api?id=TusharSingour&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
