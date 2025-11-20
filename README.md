@@ -42,6 +42,8 @@ Python projects, Git commands, or how to start in web development.
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" />
+</p>
 
 
 # 📊 GitHub Stats:
