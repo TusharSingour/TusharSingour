@@ -27,19 +27,24 @@ Python · Pandas · Chart.js
 ## Projects
 
 ### Sunstone Bhopal Dashboard
-A campus-focused web dashboard containing student resources, events, clubs, faculty information and other campus-related information.
+A campus-focused dashboard for Sunstone Bhopal with campus information, events, clubs, faculty details and student resources.
 
 **Tech:** HTML · CSS · JavaScript
 
-### ApexSpend
-A responsive expense tracker for managing income and expenses with transaction history, filtering, analytics and charts.
-
-**Tech:** HTML · CSS · JavaScript · Firebase · Chart.js
-
-### Sevak
-A home-service marketplace concept for discovering and booking services such as electricians, plumbers, carpenters and other local professionals.
+### Tushar.devHub
+Personal developer portfolio showcasing my skills, projects, coding profiles and development work.
 
 **Tech:** HTML · CSS · JavaScript
+
+### Hotel Booking Website
+A responsive hotel booking website with a modern interface for exploring hotel information and booking-related functionality.
+
+**Tech:** HTML · CSS · JavaScript
+
+### Astrology Prediction Webhook
+A web-based astrology prediction project using webhook-based automation to process user inputs and generate predictions.
+
+**Tech:** HTML · CSS · JavaScript · Webhooks · n8n
 
 ---
 
@@ -78,5 +83,5 @@ A home-service marketplace concept for discovering and booking services such as 
 ---
 
 <p align="center">
-  <sub>Building projects, solving problems, and learning continuously.</sub>
+  <sub>Building practical projects and continuously improving my development skills.</sub>
 </p>
